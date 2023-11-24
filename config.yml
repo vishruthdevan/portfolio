@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Vishruth Devan
-    subtitle: "web developer"
+    subtitle: "software engineer"
     imageUrl: "profile.png"
     imageWidth: 120
     imageHeight: 120
