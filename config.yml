@@ -45,16 +45,16 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "favicon100x100.ico"
-    favicon16x16: "favicon16x16.ico"
-    favicon32x32: "favicon32x32.ico"
-    apple_touch_icon: "apple_touch_icon100x100.ico"
+    favicon: "favicon.ico"
+    favicon16x16:
+    favicon32x32:
+    apple_touch_icon: "favicon.ico"
     # safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "home"
     icon: "icon.png"
-    iconHeight: 35
+    iconHeight: 30
 
   # profile-mode
   profileMode:
@@ -62,8 +62,8 @@ params:
     title: Vishruth Devan
     subtitle: "software engineer"
     imageUrl: "profile.png"
-    imageWidth: 120
-    imageHeight: 120
+    imageWidth: 180
+    imageHeight: 180
     imageTitle: kingdom in blue
     # buttons:
     #   - name: About
