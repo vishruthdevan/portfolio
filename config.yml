@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Vishruth Devan
-  description: "ExampleSite description"
+  description: "Vishruth's personal website"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -30,7 +30,7 @@ params:
   ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
@@ -39,8 +39,8 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
-  tocopen: false
+  ShowToc: false
+  TocOpen: false
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -53,7 +53,7 @@ params:
 
   label:
     text: "home"
-    icon: "icon.png"
+    icon: "images/icon.png"
     iconHeight: 30
 
   # profile-mode
@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Vishruth Devan
     subtitle: "software engineer"
-    imageUrl: "profile.png"
+    imageUrl: "images/profile.jpg"
     imageWidth: 180
     imageHeight: 180
     imageTitle: kingdom in blue
@@ -120,18 +120,26 @@ menu:
       name: about
       url: /about/
       weight: 10
+    - identifier: education
+      name: education
+      url: /education/
+      weight: 20
+    - identifier: experience
+      name: experience
+      url: /experience/
+      weight: 30
+    - identifier: projects
+      name: projects
+      url: /projects/
+      weight: 40
     # - identifier: tags
     #   name: tags
     #   url: /tags/
-    #   weight: 20
+    #   weight: 50
     - identifier: resume
       name: resume
-      url: /media/Vishruth_Devan.pdf
-      weight: 30
-    # - identifier: posts
-    #   name: posts
-    #   url: /posts/
-    #   weight: 40
+      url: vishruth_devan.pdf
+      weight: 60
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

@@ -1,13 +1,11 @@
 ---
-title: About
+title: Hi
 hidemeta: false
 disableshare: true
-title: 'Hi'
 summary: 
 draft: false
 hidemeta: true
 ShowBreadCrumbs: false
-
 ---
 
 I'm Vishruth. I live in Coonoor, India.
