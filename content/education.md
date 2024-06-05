@@ -10,7 +10,7 @@ ShowBreadCrumbs: false
 
 ## Vellore Institute of Technology, Vellore
 **B.Tech., Computer Science and Engineering (CGPA: 9.29)**  
-*2020 – Present*
+*2020 – 2024*
 
 - Served as Branch Representative during the first year.
 
@@ -18,10 +18,8 @@ ShowBreadCrumbs: false
 **Indian School Certificate 12th Examination (97.25%)**  
 *2018 – 2020*
 
-- Second highest score in the school.
+- Won the LIC Student of the Year Award, 2019
 
 ## St.Joseph's College, Coonoor
 **Indian Certificate of Secondary Education 10th Examination (94.6%)**  
 *2006 – 2018*
-
-- Highest score in the school.

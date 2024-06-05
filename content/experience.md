@@ -11,7 +11,7 @@ ShowBreadCrumbs: false
 
 ## GoPlus Inc.
 **Software Development Engineer | Remote**  
-*February 2023 – Present*
+*February 2023 – May 2024*
 
 - Design and develop robust APIs using the Django Rest Framework for an educational platform, focusing on scalability, security, and reliability. 
 - Collaborate with front-end developers and other team members to ensure seamless integration of APIs with the platform's user interface and other components.
@@ -23,7 +23,7 @@ ShowBreadCrumbs: false
 
 ## Developer & Core Committee Member
 **Google Developers Student Clubs | Vellore, India**  
-*March 2022 – Present*
+*March 2022 – May 2024*
 
 - GDSC is a technical chapter in VIT Vellore that develops software applications solving real-world problems.
 - Lead developer of an application that automates creating promotional videos using markdown templates.
