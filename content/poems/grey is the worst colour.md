@@ -11,7 +11,7 @@ hideSummary: true
 Loneliness can be brutal,  
 And it is not always what people claim to feel  
 For the void they feel is transient;  
-Their feelings so lightly peeled  
+Their feelings so slightly peeled  
 
 When their partners abandon them,  
 Or by their neighbours, they are shunned;  
@@ -31,4 +31,4 @@ To never share but at times, receive.
 As faint as their sorrows, I am unseen  
 Neither loved nor unloved, neither here nor there,  
 In this world of colour,  
-I am grey, everywhere.
+I am grey, here and everywhere.
