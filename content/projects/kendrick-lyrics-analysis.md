@@ -3,7 +3,7 @@ title: "Topic Analysis of Kendrick Lamar's Music and Lyrics"
 disableshare: true
 summary: 
 draft: false
-hidemeta: true
+hidemeta: false
 ---
 
 This project delves into Kendrick Lamar's decade-long musical career, specifically analyzing the themes and topics prevalent in his music and lyrics. The primary methodology employed for this exploration is Non-Negative Matrix Factorization (NMF). The aim is to gain insights into the evolution of Kendrick Lamar's artistic expression over the span of his albums.

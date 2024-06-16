@@ -3,7 +3,7 @@ title: 'Ocr Discord Bot with Tesseract'
 disableshare: true
 summary: 
 draft: false
-hidemeta: true
+hidemeta: false
 ---
 
 OCR Discord Bot is a convenient tool that enables users to extract text from images directly within a Discord server using Tesseract OCR. This bot simplifies the process by eliminating the need to save images, upload them to a website, and then perform OCR on the contents.

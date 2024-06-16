@@ -3,7 +3,7 @@ title: Satellite Dataset Visualization Dashboard
 disableshare: true
 summary: 
 draft: false
-hidemeta: true
+hidemeta: false
 ---
 
 A comprehensive visualization dashboard showcasing satellite data from the Union of Concerned Scientists (UCS). This interactive platform is designed to provide an immersive exploration of the satellite dataset, offering valuable insights into various parameters.

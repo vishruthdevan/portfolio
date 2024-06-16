@@ -3,7 +3,7 @@ title: Criminal Database Management System
 disableshare: true
 summary: 
 draft: false
-hidemeta: true
+hidemeta: false
 ---
 
 A well-designed Criminal Database Management System, meticulously designed to ensure seamless functionality and efficiency. This robust system operates on MySQL and Flask, combining the power of a relational database management system with a lightweight web framework.

@@ -3,7 +3,7 @@ title: VTOP Course Registration Scraper
 disableshare: true
 summary: 
 draft: false
-hidemeta: true
+hidemeta: false
 ---
 
 **VTOP Course Registration Scraper** is a Python script designed to scrape course registration information from the university website and save it into a CSV file. This extracted data can then be used for further integration with timetable creation software.

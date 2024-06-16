@@ -3,7 +3,7 @@ title: Arduino-based Fire Alarm System
 disableshare: true
 summary: 
 draft: false
-hidemeta: true
+hidemeta: false
 ---
 
 A Fire Alarm System designed with Arduino technology to enhance fire detection capabilities. This system utilizes Gas and Temperature sensors to monitor environmental conditions and promptly identify potential fire hazards. The recorded data is seamlessly transmitted and displayed on an Android App, leveraging Firebase for secure and reliable data storage.

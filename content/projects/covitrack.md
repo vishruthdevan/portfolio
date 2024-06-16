@@ -1,6 +1,6 @@
 ---
 title: Covi-Track
-hidemeta: true
+hidemeta: false
 disableshare: true
 summary: 
 draft: false

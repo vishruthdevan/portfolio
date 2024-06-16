@@ -3,7 +3,7 @@ title: 'Handwriting Recognizer'
 disableshare: true
 summary: 
 draft: false
-hidemeta: true
+hidemeta: false
 ---
 
 This project involves the implementation of a handwriting recognition system using a Convolutional Neural Network (CNN). The system reads images using the `opencv-python` library and utilizes a model defined in the following code:

@@ -3,7 +3,7 @@ title: 'Notes Repository - Django Backend'
 disableshare: true
 summary: 
 draft: false
-hidemeta: true
+hidemeta: false
 ---
 
 **Notes Repository** is a feature-rich website backend built using the Django framework. It facilitates users to view, download, like, and comment on lecture notes for various courses. Additionally, users can contribute by uploading their own notes, fostering a collaborative learning environment.

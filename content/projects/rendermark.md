@@ -3,7 +3,7 @@ title: RenderMark
 disableshare: true
 summary: 
 draft: false
-hidemeta: true
+hidemeta: false
 ---
 
 
