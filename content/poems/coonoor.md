@@ -20,8 +20,8 @@ Only as memories, they will remain.
 
 A small town to a big city,  
 Leaving this tiny band of people, a pity;  
-This is a tale as old as time  
-But to let it all go, I was disinclined.  
+This is a tale as old as time,  
+To let it all go, I was disinclined.  
 
 But such is life, I have to admit,  
 And what comes next is quite obscure.  

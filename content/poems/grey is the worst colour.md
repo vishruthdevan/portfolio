@@ -11,7 +11,7 @@ hideSummary: true
 Loneliness can be brutal,  
 And it is not always what people claim to feel  
 For the void they feel is transient;  
-Their feelings so slightly peeled  
+Their feelings so slightly peeled.  
 
 When their partners abandon them,  
 Or by their neighbours, they are shunned;  
