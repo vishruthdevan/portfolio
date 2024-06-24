@@ -21,7 +21,7 @@ Each of those days, I'd be helpless, I'd only fall deeper.
 
 When it's past 2, she thinks not to, talk to me any longer.  
 It starts off good, we talk about us, it makes our hearts warmer.  
-Then I realize, wait a minute, I'm a sister fucker, does this have a future?  
+Then I realize, or rather doubt, does this have a future?  
 We get too honest, it gets too messy, torture.  
 
 Tonight was bright, it's the solstice, a night like no other;  
