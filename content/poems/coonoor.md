@@ -1,5 +1,6 @@
 ---
 title: 'Coonoor'
+date: 2023-06-01
 author: 'Vishruth Devan'
 disableshare: true
 summary: 
