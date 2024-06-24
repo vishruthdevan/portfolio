@@ -1,6 +1,6 @@
 ---
 title: 'Expiry Date'
-date: 2024-06-21
+date: '2024-06-21T00:21:50+05:30'
 author: 'Vishruth Devan'
 disableshare: true
 summary: 
@@ -25,6 +25,6 @@ Then I realize, or rather doubt, does this have a future?
 We get too honest, it gets too messy, torture.  
 
 Tonight was bright, it's the solstice, a night like no other;  
-It fits this girl, I cant deny, she's a real wonder.  
+It fits this girl, I can't deny, she's a real wonder.  
 Is this ending? Will it persist? I try to guess our fate;  
 This conclusion, I can't digest. Is there an expiry date?
