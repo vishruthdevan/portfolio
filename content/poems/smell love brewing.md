@@ -15,5 +15,5 @@ Not to her, but to the thought of us together.
 Could this never be? My mind was unsound.  
 How should I know, what I had fallen for?  
 Angels and enchantresses bore no distinction here  
-Nevertheless, I returned home; her fragrance on my hand I wore,  
-After all if I was hers, I fear these feelings would never disappear.
+Nevertheless, I returned home, with her fragrance on my hand,  
+After all, though I was hers, she will never be been mine.
