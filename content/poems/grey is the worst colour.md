@@ -27,9 +27,9 @@ To have their sorrows doused.
 This false feeling would pass  
 For it is not loneliness, it is grief.  
 They will never know what I feel  
-To never share but at times, receive.  
+To never share, but at times, receive.  
 
-As faint as their sorrows, I am unseen  
+As faint as their sorrows, I am unseen.  
 Neither loved nor unloved, neither here nor there,  
 In this world of colour,  
 I am grey, here and everywhere.
