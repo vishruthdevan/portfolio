@@ -15,8 +15,8 @@ I gallop towards a field of yellow;
 Knife in hand, primed to be stained red.  
 Cheval de frise engulfed the sugary land,  
 Spikes of maroon wood with the stench of dry blood.  
-My blade lay waste to the barren structure.  
 With remarkable dexterity I cut the fruit open.  
+My blade lay waste to the barren structure.  
 The crunch of the scrumptious interior,  
 The fluidity of the extract,  
 Quenched my ravenous appetite.  
