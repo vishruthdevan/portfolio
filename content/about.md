@@ -8,9 +8,9 @@ hidemeta: true
 ShowBreadCrumbs: false
 ---
 
-I'm Vishruth. I live in Coonoor, India.
+I'm Vishruth. I live in New York. 
 
-I will be doing my master's in Computer Science in Columbia University. I did my bachelor's at [VIT, Vellore](https://vit.ac.in/)
+I am doing my master's in Computer Science in Columbia University. I did my bachelor's at [VIT, Vellore](https://vit.ac.in/). 
 
 I used to work as a Web Developer and a DevOps Engineer at [GoPlus Inc.](https://go-plus.io/) We were building an AI powered learning platform for higher education institutions. 
 
