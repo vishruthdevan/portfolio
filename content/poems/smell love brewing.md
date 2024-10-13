@@ -16,4 +16,4 @@ Could this never be? My mind was unsound.
 How should I know, what I had fallen for?  
 Angels and enchantresses bore no distinction here  
 Nevertheless, I returned home, with her fragrance on my hand,  
-After all, though I was hers, she will never be been mine.
+After all, though I was hers, she will never be mine.
