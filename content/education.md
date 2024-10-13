@@ -9,7 +9,7 @@ ShowBreadCrumbs: false
 ---
 
 ## Vellore Institute of Technology, Vellore
-**B.Tech., Computer Science and Engineering (CGPA: 9.29)**  
+**B.Tech., Computer Science and Engineering (CGPA: 9.35)**  
 *2020 – 2024*
 
 - Served as Branch Representative during the first year.

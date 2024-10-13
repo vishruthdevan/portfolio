@@ -1,6 +1,6 @@
 baseURL: https://vishruthdevan.me/
 title: Vishruth Devan
-paginate: 5
+pagerSize: 10
 theme: PaperMod
 
 enableRobotsTXT: true
