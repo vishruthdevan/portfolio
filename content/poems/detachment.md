@@ -1,6 +1,6 @@
 ---
 title: 'Detachment'
-date: '2024-10-13T01:08:34-04:00'
+date: '2024-10-13T02:08:34-04:00'
 author: 'Vishruth Devan'
 disableshare: true
 summary: 
@@ -22,7 +22,7 @@ Seconded by a veil of fulfilment
 That would supplant what I have lost.  
 
 With my desires stationed at the cockpit,  
-And decisions brewed at the ATC,  
+Decisions braised at traffic control,  
 I've been fairly successful.  
 Built bridges over oceans,  
 Built canals over mountains;  
@@ -40,6 +40,6 @@ Like an astrologer
 Who does it solely to screw over strangers;  
 
 I write this because I can,  
-Without intentions of creating an aphorism:  
+Not to create an aphorism:  
 I'd want me to be, because I can,  
-Not to run an agenda guided by determinism.  
+Not to run an agenda of determinism.  
