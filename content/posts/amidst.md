@@ -7,6 +7,7 @@ summary:
 draft: false
 hidemeta: false
 hideSummary: true
+tags: ["poem"]
 ---
 
 The seats in the middle are preferred least  

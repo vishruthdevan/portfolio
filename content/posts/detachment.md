@@ -7,6 +7,7 @@ summary:
 draft: false
 hidemeta: false
 hideSummary: true
+tags: ["poem"]
 ---
 
 I've become a slave to outcomes,  

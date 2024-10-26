@@ -7,6 +7,7 @@ summary:
 draft: true
 hidemeta: false
 hideSummary: true
+tags: ["poem"]
 ---
 
 Don't get too comfortable, why should you be?  

@@ -7,6 +7,7 @@ summary:
 draft: false
 hidemeta: false
 hideSummary: true
+tags: ["poem"]
 ---
 
 If it isn't love, why does it feel so good?  
