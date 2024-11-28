@@ -41,6 +41,6 @@ Like an astrologer
 Who does it solely to screw over strangers;  
 
 I write this because I can,  
-Not to create an aphorism:  
-I'd want me to be, because I can,  
-Not to run an agenda of determinism.  
+None of it is an aphorism:  
+I'd want me to be,  
+Because I can.  
