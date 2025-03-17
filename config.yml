@@ -59,7 +59,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Vishruth Devan
+    title: vishruth devan
     subtitle: "software engineer"
     imageUrl: "images/profile.png"
     imageWidth: 180

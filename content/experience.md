@@ -9,22 +9,36 @@ ShowBreadCrumbs: false
 ---
 
 
-## GoPlus Inc.
+## Columbia University
+
+**Teaching Assistant | New York**  
+*Jan 2025 - Present*
+
+- Assist Professor Sameer Maskey with the course Aritificial Intelligence in Public Policy (INAFU6009) teaching AI fundamentals, including machine learning algorithms, data structures, and programming basics
+- Mentor students through hands-on AI solution development, guiding them from problem identification to implementation using real-world datasets and open-source tools like TensorFlow and PyTorch.
+- Lead discussions on AI ethics, governance, and policy implications, helping students critically analyze the societal impact of AI technologies.
+- Support coursework by grading assignments, providing constructive feedback, and facilitating technical workshops on AI methodologies and tools.
+
+## GoPlus Inc.  
+
 **Software Development Engineer | Remote**  
-*February 2023 – May 2024*
+*Oct 2023 - May 2024*
 
-- Design and develop robust APIs using the Django Rest Framework for an educational platform, focusing on scalability, security, and reliability. 
-- Collaborate with front-end developers and other team members to ensure seamless integration of APIs with the platform's user interface and other components.
-- Ensure smooth maintenance and ongoing improvement of APIs through regular testing, bug fixing, and optimization. 
-- Improved the CI/CD pipeline, reducing the development server downtime from 14 minutes to just 1 minute.
-- Automated the implementation of the application architecture using AWS CDK, streamlining the infrastructure building process from a manual 2-hour task to a swift 200 seconds.
-- Integrated Stripe payments into the application, implementing webhooks to seamlessly manage and respond to payment events.
+- Built RESTful APIs for a Learning Management System using Django Rest Framework, facilitating test-taking, question creation, and study material management
+- Developed and integrated an LLM Agent leveraging the OpenAI’s GPT-4 streamlining the process of generating 20 questions, from manual effort of one hour to a 3-minute serverless asynchronous task on Azure Functions
+- Migrated infrastructure from AWS to Azure in one week with zero downtime, cutting costs by $6,000/month via Azure Startups Founders Hub credits. Transitioned key services (EC2 to Azure VMs, S3 to Blob Storage, RDS to Azure DB for PostgreSQL).
+- Automated AWS infrastructure with Amazon CDK, reducing task time from 2 hours to 200 seconds. Used Terraform to deploy AKS clusters for efficient Azure service management
 
+**Software Development Engineer Intern | Remote**  
+*Feb 2023 - Jul 2023*
+
+- Designed and implemented a CI/CD pipeline using GitHub Actions to run automated tests during deployment, reducing downtime from 14 minutes to 1 minute and significantly improving deployment speed and system reliability
+- Integrated Stripe payments implementing webhooks to handle transactions in real time and manage payment events for the three types of payment plans available to customers
 
 ## Developer & Core Committee Member
+
 **Google Developers Student Clubs | Vellore, India**  
 *March 2022 – May 2024*
 
 - GDSC is a technical chapter in VIT Vellore that develops software applications solving real-world problems.
 - Lead developer of an application that automates creating promotional videos using markdown templates.
-
