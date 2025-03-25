@@ -8,7 +8,9 @@ hidemeta: true
 ShowBreadCrumbs: false
 ---
 
-I'm Vishruth. I live in New York.
+I'm Vishruth.
+
+I live in New York. I used to live in Coonoor.
 
 I am doing my master's in Computer Science at [Columbia University](https://www.columbia.edu/). I did my bachelor's at [VIT, Vellore](https://vit.ac.in/).
 
