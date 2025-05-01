@@ -128,9 +128,9 @@ menu:
       name: projects
       url: /projects/
       weight: 40
-    - identifier: posts
-      name: posts
-      url: /posts/
+    - identifier: poems
+      name: poems
+      url: /poems/
       weight: 50
     # - identifier: tags
     #   name: tags
