@@ -11,7 +11,7 @@ ShowBreadCrumbs: false
 
 ## Columbia University
 
-**Graduate Researcher @ Complex Resilient Intelligent Systems Laboratory | New York**  
+**Graduate Researcher @ CRIS Laboratory | New York**  
 *Jan 2025 - Present*
 
 - Study protein residue interactions in AlphaFold predictions to explore attention-weighted relationships across protein families
@@ -26,7 +26,7 @@ ShowBreadCrumbs: false
 - Lead discussions on AI ethics, governance, and policy implications, helping students critically analyze the societal impact of AI technologies
 - Support coursework by grading assignments, providing constructive feedback, and facilitating technical workshops on AI methodologies and tools
 
-## GoPlus Inc.  
+## Go Plus Inc.  
 
 **Software Development Engineer | Remote**  
 *Oct 2023 - May 2024*

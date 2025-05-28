@@ -1,13 +1,14 @@
 .chroma {
-    background-color: unset !important;
+  background-color: unset !important;
 }
 
 .profile h1 {
-    font-family: "Doto", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-    font-variation-settings:
-      "ROND" 0;
-    font-size: 2.5rem;
-  }
+  font-family: "Doto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "ROND" 0;
+  font-size: 2.5rem;
+  text-shadow: 0 0 5px #fff;
+}
