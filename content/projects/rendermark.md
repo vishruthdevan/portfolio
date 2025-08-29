@@ -4,6 +4,7 @@ disableshare: true
 summary: 
 draft: false
 hidemeta: false
+weight: 13
 ---
 
 
@@ -43,5 +44,4 @@ The **RenderMark** project is a web-based application designed to render parsed 
 
 - [GitHub Repository](https://github.com/vishruthdevan/RenderMark-backend/)
 
-
-Experience the power of RenderMark, where creativity meets efficiency in rendering customized videos. 
+Experience the power of RenderMark, where creativity meets efficiency in rendering customized videos.

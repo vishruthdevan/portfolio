@@ -4,6 +4,7 @@ disableshare: true
 summary: 
 draft: false
 hidemeta: false
+weight: 5
 ---
 
 **vtop-renamer**, a Python executable designed to streamline the process of renaming lecture notes from your university. This tool transforms file names into a more readable format, ensuring chronological order for efficient organization.
@@ -17,9 +18,11 @@ hidemeta: false
 ## Screenshots
 
 ### Before Renaming
+
 ![Before Renaming](https://user-images.githubusercontent.com/87470277/126901957-e2a530ee-85c3-4cba-9157-34c05049f3bb.png)
 
 ### After Renaming
+
 ![After Renaming](https://user-images.githubusercontent.com/87470277/126901984-a9eeb4f5-3c87-4c0e-9a59-aa433a286cb7.png)
 
 ## How to Use
@@ -35,6 +38,5 @@ hidemeta: false
 ## Related Links
 
 - [GitHub Repository](https://github.com/vishruthdevan/vtop-renamer/)
-
 
 Experience the convenience of vtop-renamer and keep your lecture notes organized effortlessly!

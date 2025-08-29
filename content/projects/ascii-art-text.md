@@ -4,20 +4,21 @@ disableshare: true
 summary: 
 draft: false
 hidemeta: false
+weight: 11
 ---
 
 **ASCII Art Generator** is a command line tool that empowers users to generate text in ASCII Art Fonts effortlessly. This tool utilizes the Commander framework to provide a seamless command line interface for quick and efficient ASCII art creation.
 
-
 ## Installation
+
 - Open the directory containing the project
 - `npm i -g .`
 
 ## Usage
+
 - `art help`
 
 - Help with specific commands: `art help <command>`
-
 
 ## Related Links
 

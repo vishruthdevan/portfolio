@@ -4,6 +4,7 @@ hidemeta: false
 disableshare: true
 summary: 
 draft: false
+weight: 12
 ---
 
 **Covi-Track** is a web application designed for tracking COVID-19 hotspots. Leveraging GeoIP2, Google Maps Javascript API, and the Django web framework, this tool provides an interactive and informative platform for users to stay updated on COVID-19 cases.

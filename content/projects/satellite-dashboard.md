@@ -4,6 +4,7 @@ disableshare: true
 summary: 
 draft: false
 hidemeta: false
+weight: 7
 ---
 
 A comprehensive visualization dashboard showcasing satellite data from the Union of Concerned Scientists (UCS). This interactive platform is designed to provide an immersive exploration of the satellite dataset, offering valuable insights into various parameters.
@@ -28,4 +29,3 @@ To run the dashboard locally, clone the repository and install the required pack
 ## Related Links
 
 - [GitHub Repository](https://github.com/vishruthdevan/satellite-data-viz-dashboard/)
-

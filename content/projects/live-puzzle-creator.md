@@ -4,6 +4,7 @@ disableshare: true
 summary: 
 draft: false
 hidemeta: false
+weight: 1
 ---
 
 **Live Puzzle Creator** is a straightforward JavaScript canvas project, representing one of my initial ventures into web development. This application utilizes the device's webcam to generate puzzles, offering an engaging and interactive experience.

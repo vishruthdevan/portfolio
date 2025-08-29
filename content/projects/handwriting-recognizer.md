@@ -4,6 +4,7 @@ disableshare: true
 summary: 
 draft: false
 hidemeta: false
+weight: 9
 ---
 
 This project involves the implementation of a handwriting recognition system using a Convolutional Neural Network (CNN). The system reads images using the `opencv-python` library and utilizes a model defined in the following code:
@@ -22,16 +23,15 @@ The model is compiled using the Adam optimizer and categorical crossentropy loss
 
 ## Command Line Interface (CLI)
 
-The project includes a CLI for convenient interaction. The CLI usage is stated below: 
+The project includes a CLI for convenient interaction. The CLI usage is stated below:
 
 `python recog.py [options]`
 
-### Options:
+### Options
 
 `--aloud`: Outputs recognized words in speech form.  
 `--show-input`: Displays processed input image.  
 `--show-sample-data`: Displays sample dataset images.  
-
 
 ## Technologies Used
 
@@ -45,4 +45,3 @@ The project includes a CLI for convenient interaction. The CLI usage is stated b
 ## Related Links
 
 - [GitHub Repository](https://github.com/vishruthdevan/handwriting-recognizer/)
-
