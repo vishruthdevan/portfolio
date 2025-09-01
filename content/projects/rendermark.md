@@ -43,5 +43,3 @@ The **RenderMark** project is a web-based application designed to render parsed 
 ## Related Links
 
 - [GitHub Repository](https://github.com/vishruthdevan/RenderMark-backend/)
-
-Experience the power of RenderMark, where creativity meets efficiency in rendering customized videos.

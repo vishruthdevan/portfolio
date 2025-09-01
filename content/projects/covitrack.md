@@ -28,8 +28,5 @@ This categorization provides a visual representation of COVID-19 data, allowing 
 ## Related Links
 
 - [GitHub Repository](https://github.com/vishruthdevan/covi-track/)
-- [Demo Video](https://drive.google.com/file/d/1tDr5pGwVRg2OCy2sEkAOwfj08iurTKaC/view?usp=sharing)
-
-Explore Covi-Track to visualize and comprehend the distribution of COVID-19 cases in real-time.
 
 *Note: Ensure proper setup and configuration, including API keys for Google Maps, for the seamless functioning of the application.*

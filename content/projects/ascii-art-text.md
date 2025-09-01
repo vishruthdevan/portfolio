@@ -23,5 +23,3 @@ weight: 11
 ## Related Links
 
 - [GitHub Repository](https://github.com/vishruthdevan/ascii-art-text/)
-
-Explore the variety of ASCII fonts available and customize your text to create unique and visually appealing art from the command line.

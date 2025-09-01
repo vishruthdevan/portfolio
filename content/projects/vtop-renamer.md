@@ -38,5 +38,3 @@ weight: 5
 ## Related Links
 
 - [GitHub Repository](https://github.com/vishruthdevan/vtop-renamer/)
-
-Experience the convenience of vtop-renamer and keep your lecture notes organized effortlessly!

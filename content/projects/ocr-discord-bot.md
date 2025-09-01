@@ -1,5 +1,5 @@
 ---
-title: 'Ocr Discord Bot with Tesseract'
+title: 'OCR Discord Bot with Tesseract'
 disableshare: true
 summary: 
 draft: false
