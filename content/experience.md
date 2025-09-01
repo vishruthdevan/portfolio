@@ -14,10 +14,10 @@ ShowBreadCrumbs: false
 Jun 2025 - Aug 2025 | San Francisco (Remote) | Full-time
 
 * Crafted prompts for Q&A help agents and the intent router agent using Anthropic's guidelines for prompt engineering  
-* Add the ability to design and build tools using the Factory Pattern in the internal AI SDK for generating MCP servers and the tools served through them. Added custom middleware to handle business logic and context passing so other developers could focus solely on their agent logic  
-* Standardized the agent configuration system using the builder pattern, creating a clean, flat interface for handling hundreds of potential configuration options  
-* Built a client for agents to utilitze Amazon Bedrock's Knowledge Base for retrieval-augmented generation  
-* Created a website crawler that harvested information from Juniper Square’s public site, stored documents in S3, generated a Kendra GenAI index, and layered a Bedrock knowledge base on top. All services were deployed via Infrastructure as Code (IaC) on Kubernetes pods  
+* Add the ability to design and build tools using the factory pattern in the internal AI SDK for generating MCP servers and the tools served through them. Added custom middleware to handle business logic and context passing so other developers could focus solely on their agent logic  
+* Standardized the agent configuration system using the builder pattern, creating a clean, flat interface for handling hundreds of configuration options  
+* Built a client for agents to utilize Amazon Bedrock's Knowledge Base for retrieval-augmented generation  
+* Created a website crawler that harvests information from Juniper Square’s public site, stores documents in S3, generates a Kendra GenAI index, and layers a Bedrock knowledge base on top. All services are deployed via Infrastructure as Code (IaC) on Kubernetes pods  
 * Configured customizable event streaming between agents, the intent router, and the frontend to ensure event-driven interactions  
 * Collaborated with a team during the company hackathon to develop a QA agent that leveraged Playwright network activity to auto-generate unit tests, supporting the movement of tests from end-to-end to unit-level testing as outlined by the testing pyramid. The project placed third in the competition  
 
