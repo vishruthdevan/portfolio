@@ -11,7 +11,7 @@ ShowBreadCrumbs: false
 ## Juniper Square
 
 **Artificial Intelligence Engineer Intern**  
-Jun 2025 - Aug 2025 | San Francisco (Remote) | Full-time
+Jun 2025 - Present | San Francisco (Remote) | Full-time
 
 * Crafted prompts for Q&A help agents and the intent router agent using Anthropic's guidelines for prompt engineering  
 * Add the ability to design and build tools using the factory pattern in the internal AI SDK for generating MCP servers and the tools served through them. Added custom middleware to handle business logic and context passing so other developers could focus solely on their agent logic  

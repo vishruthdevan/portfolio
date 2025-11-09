@@ -30,7 +30,7 @@ ShowBreadCrumbs: false
 
 - Won the LIC Student of the Year Award, 2019
 
-## St.Joseph's College, Coonoor
+## St. Joseph's College, Coonoor
 
 **Indian Certificate of Secondary Education 10th Examination (94.6%)**  
 *2006 – 2018*
