@@ -1,6 +1,5 @@
 ---
 title: Experience
-hidemeta: false
 disableshare: true
 summary: 
 draft: false

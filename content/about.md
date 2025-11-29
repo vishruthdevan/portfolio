@@ -1,6 +1,5 @@
 ---
 title: Hi
-hidemeta: false
 disableshare: true
 summary: 
 draft: false

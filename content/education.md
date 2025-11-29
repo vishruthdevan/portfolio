@@ -1,6 +1,5 @@
 ---
 title: Education
-hidemeta: false
 disableshare: true
 summary: 
 draft: false
