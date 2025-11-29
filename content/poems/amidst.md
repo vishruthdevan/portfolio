@@ -46,6 +46,6 @@ I know I may seem ignorant,
 I ignore the ones calling me the same.  
 Death on this stream is inevitable,  
 We intend to go up, our boats drift aside;  
-The ones behind me pick my carcass apart,   
+The ones behind me pick my carcass apart,
 My remains are reduced to a resource in deathly quiet waters.  
 I'm remembered no longer. I survive no more.
