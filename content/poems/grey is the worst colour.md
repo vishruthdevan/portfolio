@@ -22,7 +22,7 @@ Or they lose their loved ones.
 
 But are they really lonely?  
 When they always have an out;  
-Some one or thing to pour their worries into   
+Some one or thing to pour their worries into  
 To have their sorrows doused.  
 
 This false feeling would pass  
