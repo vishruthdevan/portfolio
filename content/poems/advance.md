@@ -14,7 +14,7 @@ Houdini would be jealous
 Of how better an escapist I am,  
 When the letters 'Marlboro' part my lips;  
 Of how I can disappear into myself.  
-The crisp current of Coonoor breeze seems fowl  
+The crisp current of Coonoor breeze seems foul  
 When pit against the yellow tar, the coarse air.  
 My trachea isn’t as forgiving  
 As I am to myself when I let  

@@ -13,7 +13,7 @@ tags: ["poem"]
 You returned, right on time.  
 I heard you drown the bassline in my ears.  
 There's little left in my world  
-That can spoil the quite joy of a late sunset.  
+That can spoil the quiet joy of a late sunset.  
 
 "There's little left in your world," you whispered  
 "Notes don't please you like voices do."  

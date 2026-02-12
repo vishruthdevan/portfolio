@@ -11,11 +11,11 @@ tags: ["poem"]
 ---
 
 red's infuriated,  
-red's angry when he can hear his breathing.  
+red's angry that he can hear red breath.  
 the clanging pipes above keep red hot.  
 red hates things for doing what they're meant to do.  
 red had a shotgun to his heart,  
-the pellets turns his face white as a bone.  
+the pellets turn his face white as a bone.  
 they left a gaping hole.  
 he bled red until the roads he walked  
 were paved with dried mud bricks.  
