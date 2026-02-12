@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: vishruth devan
     subtitle: "software engineer"
-    imageUrl: "images/profile_2.jpg"
+    imageUrl: "images/profile_2.png"
     imageWidth: 180
     imageHeight: 180
     imageTitle: kingdom in blue
