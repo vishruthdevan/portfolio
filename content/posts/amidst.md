@@ -8,6 +8,8 @@ draft: false
 hidemeta: false
 hideSummary: true
 tags: ["poem"]
+cover:
+  image: /images/posts/amidst.png
 ---
 
 The seats in the middle are preferred least  

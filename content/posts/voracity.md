@@ -8,6 +8,8 @@ draft: false
 hidemeta: false
 hideSummary: true
 tags: ["poem"]
+cover:
+  image: /images/posts/voracity.png
 ---
 
 Herb in my head, a fruit in my refrigerator;  

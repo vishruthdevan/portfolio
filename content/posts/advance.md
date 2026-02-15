@@ -8,6 +8,8 @@ draft: false
 hidemeta: false
 hideSummary: true
 tags: ["poem"]
+cover:
+  image: /images/posts/advance.png
 ---
 
 Houdini would be jealous  
