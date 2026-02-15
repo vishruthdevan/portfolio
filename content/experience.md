@@ -9,12 +9,12 @@ ShowBreadCrumbs: false
 
 ## Juniper Square
 
-**Software Engineer 1**
+**Software Engineer 1**  
 Jan 2026 - Present | San Francisco (Remote) | Full-time
 
 * Working on the agent memory service, the AI user interface, and complex financial reporting for private markets
 
-**Artificial Intelligence Engineer Intern**
+**Artificial Intelligence Engineer Intern**  
 Jun 2025 - Dec 2025 | San Francisco (Remote) | Full-time
 
 * Crafted prompts for Q&A help agents and the intent router agent using Anthropic's guidelines for prompt engineering
