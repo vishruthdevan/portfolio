@@ -21,7 +21,6 @@ body {
   object-fit: cover;
   object-position: center center;
   opacity: 0.6;
-  scale: 1.15;
 }
 
 .profile h1 {
