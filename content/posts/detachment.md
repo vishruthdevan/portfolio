@@ -1,8 +1,7 @@
 ---
 title: 'Detachment'
 date: '2024-10-13T02:08:34-04:00'
-author: 'Vishruth Devan'
-disableshare: true
+disableShare: true
 summary: 
 draft: false
 hidemeta: false

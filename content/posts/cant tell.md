@@ -1,8 +1,7 @@
 ---
 title: "Can't Tell"
 date: '2025-01-27T03:26:04-05:00'
-author: 'Vishruth Devan'
-disableshare: true
+disableShare: true
 summary: 
 draft: true
 hidemeta: false

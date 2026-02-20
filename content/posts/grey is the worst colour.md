@@ -1,8 +1,7 @@
 ---
 title: 'Grey is the Worst Colour'
 date: '2021-12-31T00:00:00+05:30'
-author: 'Vishruth Devan'
-disableshare: true
+disableShare: true
 summary: 
 draft: true
 hidemeta: false

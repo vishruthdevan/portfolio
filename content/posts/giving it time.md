@@ -1,8 +1,7 @@
 ---
 title: 'Giving It Time'
 date: '2024-11-27T01:26:55-05:00'
-author: 'Vishruth Devan'
-disableshare: true
+disableShare: true
 summary: 
 draft: true
 hidemeta: false

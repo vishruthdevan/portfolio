@@ -1,8 +1,7 @@
 ---
 title: 'Expiry Date'
 date: '2024-06-21T00:21:50+05:30'
-author: 'Vishruth Devan'
-disableshare: true
+disableShare: true
 summary: 
 draft: true
 hidemeta: false

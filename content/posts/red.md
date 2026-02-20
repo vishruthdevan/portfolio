@@ -1,8 +1,7 @@
 ---
 title: 'Red'
 date: '2025-11-28T21:53:34-05:00'
-author: 'Vishruth Devan'
-disableshare: true
+disableShare: true
 summary: 
 draft: false
 hidemeta: false

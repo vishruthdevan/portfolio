@@ -1,8 +1,7 @@
 ---
 title: 'Smell Love Brewing'
 date: '2022-06-27T00:00:00+05:30'
-author: 'Vishruth Devan'
-disableshare: true
+disableShare: true
 summary: 
 draft: true
 hidemeta: false

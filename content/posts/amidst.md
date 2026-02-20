@@ -1,8 +1,7 @@
 ---
 title: 'Amidst'
 date: '2024-07-20T23:53:56+05:30'
-author: 'Vishruth Devan'
-disableshare: true
+disableShare: true
 summary: 
 draft: false
 hidemeta: false

@@ -19,13 +19,14 @@ params:
   title: Vishruth Devan
   description: "Vishruth's personal website"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: "Vishruth Devan"
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
+  hideAuthor: true
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
@@ -102,6 +103,12 @@ params:
 
   # for search
   # https://fusejs.io/api/options.html
+  outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -124,14 +131,10 @@ menu:
       name: experience
       url: /experience/
       weight: 30
-    - identifier: projects
-      name: projects
-      url: /projects/
-      weight: 40
     - identifier: posts
       name: posts
       url: /posts/
-      weight: 50
+      weight: 40
     # - identifier: tags
     #   name: tags
     #   url: /tags/
@@ -139,7 +142,7 @@ menu:
     - identifier: resume
       name: resume
       url: https://drive.google.com/file/d/1OP_N_S2l5pUGqzloqg_aEG5Qiazjjldk/view?usp=sharing
-      weight: 60
+      weight: 50
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

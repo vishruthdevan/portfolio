@@ -1,8 +1,7 @@
 ---
 title: 'Unwelcome'
 date: '2025-06-19T23:36:01-04:00'
-author: 'Vishruth Devan'
-disableshare: true
+disableShare: true
 summary: 
 draft: false
 hidemeta: false

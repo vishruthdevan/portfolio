@@ -1,8 +1,7 @@
 ---
 title: 'Coonoor'
 date: '2023-06-01T01:07:28+05:30'
-author: 'Vishruth Devan'
-disableshare: true
+disableShare: true
 summary: 
 draft: true
 hidemeta: false

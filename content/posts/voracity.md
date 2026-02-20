@@ -1,8 +1,7 @@
 ---
 title: 'Voracity'
 date: '2024-07-30T23:29:53+05:30'
-author: 'Vishruth Devan'
-disableshare: true
+disableShare: true
 summary: 
 draft: false
 hidemeta: false

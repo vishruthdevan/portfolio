@@ -1,6 +1,6 @@
 ---
 title: Experience
-disableshare: true
+disableShare: true
 summary: 
 draft: false
 hidemeta: true
