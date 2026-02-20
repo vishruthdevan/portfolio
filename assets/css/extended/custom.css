@@ -1,5 +1,5 @@
 body {
-  font-family: "Source Serif 4", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-family: "Urbanist", sans-serif;
 }
 
 .chroma {
@@ -24,12 +24,7 @@ body {
 }
 
 .profile h1 {
-  font-family: "Doto", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-  font-variation-settings:
-    "ROND" 0;
+  font-weight: 300;
   font-size: 2.5rem;
-  text-shadow: 0 0 5px #fff;
+  letter-spacing: 0.05em;
 }
