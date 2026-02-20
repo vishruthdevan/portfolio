@@ -27,4 +27,4 @@ We get too honest, my thoughts are in disarray, torture.
 It's the solstice, our propects together could certainly be brighter;  
 The pearly moon fits this girl, I can't deny, she's a real wonder.  
 Is what I have with her only ephemeral? I try to guess our fate;  
-How could I be content knowing there's an expiry date?
+How could I be content knowing there's an expiry date?  

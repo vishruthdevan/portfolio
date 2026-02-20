@@ -27,4 +27,4 @@ To let it all go, I was disinclined.
 But such is life, I have to admit,  
 And what comes next is quite obscure.  
 I have made my peace with it;  
-With love, from Coonoor.
+With love, from Coonoor.  
