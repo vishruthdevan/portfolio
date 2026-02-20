@@ -6,6 +6,10 @@ body {
   background-color: unset !important;
 }
 
+.post-single .entry-cover {
+  margin-top: calc(var(--gap) * -1);
+}
+
 .entry-cover {
   width: 100dvw;
   margin-left: calc(50% - 50dvw);
